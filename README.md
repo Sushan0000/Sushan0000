@@ -7,4 +7,4 @@
 
 - 📫 How to reach me **sushanmaharjan530@gmail.com**
 
-<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47lg7qn7we8cdehkn1h702yaq9iw1bbyuj0dyz6qh4&rid=giphy.gif&ct=g">
+<img src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47lg7qn7we8cdehkn1h702yaq9iw1bbyuj0dyz6qh4&rid=giphy.gif&ct=g" align="right">
