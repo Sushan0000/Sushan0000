@@ -2,8 +2,8 @@
 <img align="center" src="https://media.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=ecf05e47lg7qn7we8cdehkn1h702yaq9iw1bbyuj0dyz6qh4&rid=giphy.gif&ct=g" width="1000">
 <h3 align="center">Frontend developer in the making! Just trying to make my HTML and CSS behave... 👀👨‍💻</h3>
 
-- 🔭 I’m currently working on **To Do App**
+- 🔭 I’m currently working on **Social Media App**
 
-- 🌱 I’m currently learning **JavaScript**
+- 🌱 I’m currently learning **Typescript**
 
 - 📫 How to reach me **sushanmaharjan530@gmail.com**
